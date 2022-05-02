@@ -1,0 +1,30 @@
+{
+  "name": "slam",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KtfwyCJ/SLAM.git"
+  },
+  "keywords": [
+    "React",
+    "Cli"
+  ],
+  "author": "ktfwycj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KtfwyCJ/SLAM/issues"
+  },
+  "homepage": "https://github.com/KtfwyCJ/SLAM#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@babel/standalone": "^7.17.11"
+  }
+}
